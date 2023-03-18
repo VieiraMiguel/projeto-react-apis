@@ -74,10 +74,12 @@ border-radius: 38px;
 }
 
 #bars{
+    padding-top: 3px;
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    gap: 16px
+    //justify-content: space-between;
 }
 
 #box2{
